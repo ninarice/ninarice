@@ -20,4 +20,4 @@ I'm leveraging the abundance of data in today's world to uncover patterns in hum
 - 🤝 [LinkedIn](https://www.linkedin.com/in/nina-rice/)
 - 📧 [Email me](mailto:nina.marie.rice@gmail.com)
 
-I'm looking for the opportunity to connect with a great company once I graduate!
+I'm looking for the opportunity to connect with a great company!
