@@ -4,7 +4,7 @@
 I'm leveraging the abundance of data in today's world to uncover patterns in human behavior across society.
 
 - 🌊 Pursuing a Master of Science in Computational Social Science at UC San Diego, graduating June 2025
-- 🎓 Bachelor of Science in Clinical Psychology at UCSD, Class of 2022
+- 🎓 Bachelor of Science in Clinical Psychology at UCSD, class of 2022
 - 📊 Currently working on projects involving: Geospatial Analyses | Policy Evaluation | Social Impact | Public Health | AI for Urban Innovation
 
 
