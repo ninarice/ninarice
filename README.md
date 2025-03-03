@@ -10,6 +10,7 @@ I'm leveraging the abundance of data in today's world to uncover patterns in hum
 
 ## My Toolkit
 - **Skills**: Python | R | SQL | QGIS | ArcGis | SPSS | Data Visualization | JavaScript | HTML | TensorFlow | Keras
+- **Research**: Literature review | Survey design | Data analysis | Statistics
   
 ## Research Experience
 - **Current Affiliated Lab**: [The Tobacco E-commerce Lab](https://www.tobaccoecommercelab.com)
