@@ -10,7 +10,7 @@ I'm leveraging the abundance of data in today's world to uncover patterns in hum
 
 ## Skillset
 - **Software/Tools**: Python | R | SQL | QGIS | ArcGis | SPSS | JavaScript | HTML | TensorFlow | Keras | PyTorch
-- **Research**: Literature review | Survey design | Data analysis | Data Visualization | Statistics
+- **Research**: Literature review | Survey design | Data analysis | Data visualization | Statistics
   
 ## Research Experience
 - **Current Affiliated Lab**: [The Tobacco E-commerce Lab](https://www.tobaccoecommercelab.com)
