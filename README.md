@@ -8,9 +8,9 @@ I'm leveraging the abundance of data in today's world to uncover patterns in hum
 - 📊 Currently working on projects involving: Geospatial Analyses | Policy Evaluation | Social Impact | Public Health | AI for Urban Innovation
 
 
-## My Toolkit
-- **Software/Programming Skills**: Python | R | SQL | QGIS | ArcGis | SPSS | Data Visualization | JavaScript | HTML | TensorFlow | Keras
-- **Research**: Literature review | Survey design | Data analysis | Statistics
+## Skillset
+- **Software/Tools**: Python | R | SQL | QGIS | ArcGis | SPSS | JavaScript | HTML | TensorFlow | Keras | PyTorch
+- **Research**: Literature review | Survey design | Data analysis | Data Visualization | Statistics
   
 ## Research Experience
 - **Current Affiliated Lab**: [The Tobacco E-commerce Lab](https://www.tobaccoecommercelab.com)
